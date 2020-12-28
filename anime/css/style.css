@@ -1,0 +1,109 @@
+body{
+    font: 16px/28px arial, sans-serif;
+  
+    background-image: url(../img/6313.jpg); 
+    color:white;
+}
+
+.container{
+    width:800px;
+    margin: auto;
+    background-color: rgba(38, 44, 39, 0.468);
+}
+
+.header{
+    padding: 20px;
+}
+
+.header.judul{
+    padding-top: 10pt;
+    align : center;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.header ul li{
+
+display: inline-block;
+margin-top: 20px;
+margin-right: 10px;
+}
+
+.header a{
+text-decoration: none;
+color: burlywood;
+}
+
+.header a:hover{
+    color:rgb(255, 255, 255);
+    background-color:skyblue;
+}
+
+.hero{
+    height: 180px;
+    background-image: url(../img/images\ \(6\).jpeg);
+    background-size: 100%;
+    background-position: center;
+    background-size: cover;
+    border-top: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+}
+
+.content{
+    padding: 20px 60px 40px 60px;
+}
+
+
+
+#table{
+    color: rgb(255, 255, 255);
+    align : center;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(255, 254, 254, 0.5);
+    
+    
+    
+    
+}
+#text{
+    background-color: white;
+    text-decoration: none;
+    color: red;
+}  
+#line{
+    text-decoration: none;
+    color:royalblue;
+}
+h2{
+    text-align: center;
+}
+#HOME{
+    color: burlywood;
+    text-decoration: none;
+    background-color: white;
+    margin-left: 630px;
+}
+#profil{
+    color:white;
+    background-color: rgba(38, 44, 39, 0.468);
+    margin: auto;
+    font-family: 'Gill Sans';
+}
+#kiri{
+    margin-left: 500px;
+}
+#topik{
+    margin-right: 600px;
+}
+#penulis{
+    font-size: 15px;
+    padding: 0px;
+}
+.gif{
+    margin-left: 700px;
+}
+.judul{
+    text-shadow: 6px 4px 2px #1c313c
+}
